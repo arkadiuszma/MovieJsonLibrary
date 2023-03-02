@@ -1,0 +1,158 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "yearOfPublication": "1994",
+      "director": {
+        "name": "Frank",
+        "lastName": "Darabont"
+      },
+      "genre": "Drama",
+      "actors": [
+        {
+          "name": "Tim",
+          "lastName": "Robbins"
+        },
+        {
+          "name": "Morgan",
+          "lastName": "Freeman"
+        },
+        {
+          "name": "Bob",
+          "lastName": "Gunton"
+        }
+      ]
+    },
+    {
+      "title": "Bruce Almighty",
+      "yearOfPublication": "2003",
+      "director": {
+        "name": "Tom",
+        "lastName": "Shadyac"
+      },
+      "genre": "Comedy",
+      "actors": [
+        {
+          "name": "Jim",
+          "lastName": "Carrey"
+        },
+        {
+          "name": "Morgan",
+          "lastName": "Freeman"
+        },
+        {
+          "name": "Jennifer",
+          "lastName": "Aniston"
+        }
+      ]
+    },
+    {
+      "title": "The Truman Show",
+      "yearOfPublication": "1998",
+      "director": {
+        "name": "Peter",
+        "lastName": "Weir"
+      },
+      "genre": "Drama",
+      "actors": [
+        {
+          "name": "Jim",
+          "lastName": "Carrey"
+        },
+        {
+          "name": "Laura",
+          "lastName": "Linney"
+        },
+        {
+          "name": "Noah",
+          "lastName": "Emmerich"
+        }
+      ]
+    },
+    {
+      "title": "Horrible Bosses",
+      "yearOfPublication": "2011",
+      "director": {
+        "name": "Seth",
+        "lastName": "Gordon"
+      },
+      "genre": "Comedy",
+      "actors": [
+        {
+          "name": "Jason",
+          "lastName": "Bateman"
+        },
+        {
+          "name": "Jason",
+          "lastName": "Sudeikis"
+        },
+        {
+          "name": "Charlie",
+          "lastName": "Day"
+        },
+        {
+          "name": "Jennifer",
+          "lastName": "Aniston"
+        },
+        {
+          "name": "Kevin",
+          "lastName": "Spacey"
+        }
+      ]
+    },
+    {
+      "title": "Horrible Bosses 2",
+      "yearOfPublication": "2014",
+      "director": {
+        "name": "Sean",
+        "lastName": "Anders"
+      },
+      "genre": "Comedy",
+      "actors": [
+        {
+          "name": "Jason",
+          "lastName": "Bateman"
+        },
+        {
+          "name": "Jason",
+          "lastName": "Sudeikis"
+        },
+        {
+          "name": "Charlie",
+          "lastName": "Day"
+        },
+        {
+          "name": "Jennifer",
+          "lastName": "Aniston"
+        },
+        {
+          "name": "Kevin",
+          "lastName": "Spacey"
+        }
+      ]
+    },
+    {
+      "title": "Seven",
+      "yearOfPublication": "1995",
+      "director": {
+        "name": "David",
+        "lastName": "Fincher"
+      },
+      "genre": "Thriller",
+      "actors": [
+        {
+          "name": "Morgan",
+          "lastName": "Freeman"
+        },
+        {
+          "name": "Brad",
+          "lastName": "Pitt"
+        },
+        {
+          "name": "Kevin",
+          "lastName": "Spacey"
+        }
+      ]
+    }
+  ]
+}
