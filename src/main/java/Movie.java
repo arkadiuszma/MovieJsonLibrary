@@ -7,7 +7,8 @@ public record Movie(String title, int yearOfPublication, Director director, Stri
                 "Publication year: " + yearOfPublication + '\n' +
                 "Director: " + director + '\n' +
                 "Genre: " + genre + '\n' +
-                "Actors: " + actors;
+                "Actors: " + actors.toString().replace("[", "")
+                                              .replace("]", "");
     }
 }
 
